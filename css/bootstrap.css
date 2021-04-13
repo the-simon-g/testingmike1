@@ -4375,7 +4375,8 @@ tbody.collapse.in {
     cursor: not-allowed;
     background-color: transparent;
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#fad59f, endColorstr=#fa9907) }
+    /*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#fad59f, endColorstr=#fa9907)*/
+ }
 
 .open>.dropdown-menu {
     display: block
